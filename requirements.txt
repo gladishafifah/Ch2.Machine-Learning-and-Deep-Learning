@@ -1,0 +1,11 @@
+pandas==2.2.2
+numpy==1.26.4
+scikit-learn==1.5.2
+matplotlib==3.8.0
+seaborn==0.13.2
+tensorflow==2.17.0
+scipy==1.13.1
+pytorch==2.5.0+cu121
+cudf==24.10.01
+cuml==24.10.00
+Cupy==12.2.0
